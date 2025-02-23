@@ -3,7 +3,7 @@
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
-Project consists of an NSCR assessment that was performed on Louisiana State University IT Security policies. This assessment is based on maturity levels 1- 7. Based on this assesment, this will determine the overall health of the institutions IT security polices and log gaps and suggest improvements to enhance the organizations security posture based on the information this was provided for this assessment. 
+Project consists of an NSCR Version 1.1 assessment that was performed on Louisiana State University's IT Security policies. This assessment is based on maturity levels 1- 7. Based on this assesment, this will determine the overall health of the institutions IT security polices and log gaps and suggest improvements to enhance the organizations security posture based on the information this was provided for this assessment. 
 <br />
 
 
@@ -16,15 +16,15 @@ Project consists of an NSCR assessment that was performed on Louisiana State Uni
 
 - <b>Windows 10</b> (21H2)
 
-<h2>Program walk-through:</h2>
+<h2>NCSR Maturity Level:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Open up the NCSR Tool and Assess the organizations IT Security Policys based on Maturity Level: <br/>
+<img src="https://i.imgur.com/sF55eKf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Using the NCSR Tool, I reviewed the first question "Physical devices and systems within the organization are inventoried." Located the IT Policy and assigned a maturity level:  <br/>
+<img src="https://imgur.com/oGf7uOF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Enter the number of passes: <br/>
