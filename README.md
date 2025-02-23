@@ -1,6 +1,6 @@
 # NCSR-RISK-LSU-UNIVERISTY-ASSESSMENT
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
+ 
 
 <h2>Description</h2>
 Project consists of an NSCR Version 1.1 assessment that was performed on Louisiana State University's IT Security policies. This assessment is based on maturity levels 1- 7. Based on this assesment, this will determine the overall health of the institutions IT security polices and log gaps and suggest improvements to enhance the organizations security posture based on the information this was provided for this assessment. 
@@ -31,7 +31,7 @@ Using the NCSR Tool, I reviewed the first question "Physical devices and systems
 <h1>Assessment question 2: Software platforms and applications within the organization are inventoried..  </h1>
 <br />
 <br />
-Enter the number of passes: <br/>
+ I reviewed the question "Software platforms and applications within the organization are inventoried." Located the document of the policy and performed the assessment: <br/>
 <img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
