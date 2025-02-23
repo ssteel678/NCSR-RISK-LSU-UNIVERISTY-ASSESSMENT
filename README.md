@@ -3,7 +3,7 @@
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+Project consists of an NSCR assessment that was performed on Louisiana State University IT Security policies. This assessment is based on maturity levels 1- 7. Based on this assesment, this will determine the overall health of the institutions IT security polices and log gaps and suggest improvements to enhance the organizations security posture based on the information this was provided for this assessment. 
 <br />
 
 
