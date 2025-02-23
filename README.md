@@ -7,15 +7,6 @@ Project consists of an NSCR Version 1.1 assessment that was performed on Louisia
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
-
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
-
-<h1>Environments Used </h1>
-
-- <b>Windows 10</b> (21H2)
-
 <h2>NCSR Maturity Level:</h2>
 
 <p align="center">
@@ -35,6 +26,9 @@ Using the NCSR Tool, I reviewed the first question "Physical devices and systems
 <br />
  Based of the documentation all phyiscal inventory is in placed, they have standards in place and the reveiw of this are gives the maturity level of 6:  <br/>
 <img src="https://imgur.com/Z0HAcFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<h1>Assessment question 2: Software platforms and applications within the organization are inventoried..  </h1>
 <br />
 <br />
 Enter the number of passes: <br/>
