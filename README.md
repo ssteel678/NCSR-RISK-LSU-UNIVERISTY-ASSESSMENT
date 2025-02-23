@@ -12,7 +12,7 @@ Project consists of an NSCR Version 1.1 assessment that was performed on Louisia
 - <b>PowerShell</b> 
 - <b>Diskpart</b>
 
-<h2>Environments Used </h2>
+<h1>Environments Used </h1>
 
 - <b>Windows 10</b> (21H2)
 
@@ -23,7 +23,9 @@ Open up the NCSR Tool and Assess the organizations IT Security Policys based on 
 <img src="https://i.imgur.com/sF55eKf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Using the NCSR Tool, I reviewed the first question "Physical devices and systems within the organization are inventoried.:  <br/>
+<h1>Assessment 1: Physical devices and systems within the organization are inventoried.  </h1>
+
+Using the NCSR Tool, I reviewed the first question "Physical devices and systems within the organization are inventoried.":  <br/>
 <img src="https://imgur.com/oGf7uOF.png" height="80%" width="80%" alt="NCSR Tool"/>
 <br />
 <br />
