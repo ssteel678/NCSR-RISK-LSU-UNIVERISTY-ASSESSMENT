@@ -31,6 +31,7 @@ Using the NCSR Tool, I reviewed the first question "Physical devices and systems
 <img src="https://imgur.com/e5daQds.png" height="80%" width="80%" alt=" LSU IT ASSET MANAGEMENT Policy Statement"/>
 <br />
 <br />
+ Based of the documentation all phyiscal inventory is in placed, they have standards in place and the reveiw of this are gives the maturity level of 6:  <br/>
 <img src="https://imgur.com/Z0HAcFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
