@@ -24,7 +24,13 @@ Open up the NCSR Tool and Assess the organizations IT Security Policys based on 
 <br />
 <br />
 Using the NCSR Tool, I reviewed the first question "Physical devices and systems within the organization are inventoried." Located the IT Policy and assigned a maturity level:  <br/>
-<img src="https://imgur.com/oGf7uOF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/oGf7uOF.png" height="80%" width="80%" alt="NCSR Tool"/>
+<br />
+<br />
+<img src="https://imgur.com/e5daQds.png" height="80%" width="80%" alt=" LSU IT ASSET MANAGEMENT Policy Statement"/>
+<br />
+<br />
+<img src="https://imgur.com/Z0HAcFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Enter the number of passes: <br/>
