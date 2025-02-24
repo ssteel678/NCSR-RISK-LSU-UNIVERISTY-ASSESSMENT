@@ -42,6 +42,9 @@ The applications are not displayed to the public, but based on LSU's policy stat
 <img src="https://imgur.com/AAwmRl3.png" height="20%" width="20%" alt=" Application Invertory Mutarity Level"/>
 <br />
 <br />
+<h1>Assessment question 3: Organizational communication and data flows are mapped.  </h1>
+<br />
+<br />
 Wait for process to complete (may take some time):  <br/>
 <img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
