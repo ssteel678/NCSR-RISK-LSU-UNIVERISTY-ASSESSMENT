@@ -32,11 +32,14 @@ Using the NCSR Tool, I reviewed the first question "Physical devices and systems
 <br />
 <br />
  I reviewed the question "Software platforms and applications within the organization are inventoried." Located the document of the policy and performed the assessment: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/gGz3O9w.png" height="80%" width="80%" alt=" LSU Application Policy 1"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+The applications are not displayed to the public, but based on LSU's policy statement, we can cofirmed that all of LSU's applications are inventoried and they have standards in place that gives this a maturity level of 6.:  <br/>
+<img src="https://imgur.com/ECrlcDZ.png" height="80%" width="80%" alt="LSU's Policy 2"/>
+<br />
+<br />
+<img src="https://imgur.com/AAwmRl3.png" height="20%" width="20%" alt=" Application Invertory Mutarity Level"/>
 <br />
 <br />
 Wait for process to complete (may take some time):  <br/>
