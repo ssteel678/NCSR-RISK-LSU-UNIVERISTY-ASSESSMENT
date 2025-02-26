@@ -21,7 +21,7 @@ Using the NCSR Tool, I reviewed the first question "Physical devices and systems
 <br />
 <br />
  Located the IT Policy and assign a maturity level:  <br/>
-<img src="https://imgur.com/e5daQds.png" height="80%" width="80%" alt=" LSU IT ASSET MANAGEMENT Policy Statement"/>
+<img src="https://imgur.com/e5daQds.png" height="10%" width="10%" alt=" LSU IT ASSET MANAGEMENT Policy Statement"/>
 <br />
 <br />
  Based of the documentation all phyiscal inventory is in placed, they have standards in place and the reveiw of this are gives the maturity level of 6:  <br/>
@@ -39,7 +39,7 @@ The applications are not displayed to the public, but based on LSU's policy stat
 <img src="https://imgur.com/ECrlcDZ.png" height="80%" width="80%" alt="LSU's Policy 2"/>
 <br />
 <br />
-<img src="https://imgur.com/AAwmRl3.png" height="20%" width="20%" alt=" Application Invertory Mutarity Level"/>
+<img src="https://imgur.com/AAwmRl3.png" height="10%" width="10%" alt=" Application Invertory Mutarity Level"/>
 <br />
 <br />
 <h1>Assessment question 3: Organizational communication and data flows are mapped.  </h1>
@@ -50,7 +50,7 @@ The applications are not displayed to the public, but based on LSU's policy stat
 <br />
 <br />
 Based on the network security policy, the organization has policies and standards in place, however, there is not enough information that an risk assessment was performed with the information provided so the maturity level is a 4:  <br/>:  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/tW87vwk.png" height="10%" width="10%" alt=" Netowrk Security"/>
 <br />
 <br />
 Sanitization complete:  <br/>
