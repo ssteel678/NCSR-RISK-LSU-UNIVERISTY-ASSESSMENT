@@ -45,6 +45,9 @@ The applications are not displayed to the public, but based on LSU's policy stat
 <h1>Assessment question 3: Organizational communication and data flows are mapped.  </h1>
 <br />
 <br />
+<img src="https://imgur.com/nVDeMkC.png" height="80%" width="80%" alt=" Organizational communication and data flows"/>
+<br />
+<br />
 Wait for process to complete (may take some time):  <br/>
 <img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
