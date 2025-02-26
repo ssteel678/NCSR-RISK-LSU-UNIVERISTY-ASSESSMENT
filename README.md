@@ -17,7 +17,7 @@ Open up the NCSR Tool and Assess the organizations IT Security Policys based on 
 <h1>Assessment question 1: Physical devices and systems within the organization are inventoried.  </h1>
 
 Using the NCSR Tool, I reviewed the first question "Physical devices and systems within the organization are inventoried.":  <br/>
-<img src="https://imgur.com/oGf7uOF.png" height="10%" width="10%" alt="NCSR Tool"/>
+<img src="https://imgur.com/oGf7uOF.png" height="30%" width="30%" alt="NCSR Tool"/>
 <br />
 <br />
  Located the IT Policy and assign a maturity level:  <br/>
