@@ -48,7 +48,8 @@ The applications are not displayed to the public, but based on LSU's policy stat
 <img src="https://imgur.com/nVDeMkC.png" height="80%" width="80%" alt=" Network Security Policy"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
+<br />
+Based on the network security policy, the organization has policies and standards in place, however, there is not enough information that an risk assessment was performed with the information provided so the maturity level is a 4:  <br/>:  <br/>
 <img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
