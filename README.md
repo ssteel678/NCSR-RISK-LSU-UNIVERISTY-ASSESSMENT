@@ -17,11 +17,11 @@ Open up the NCSR Tool and Assess the organizations IT Security Policys based on 
 <h1>Assessment question 1: Physical devices and systems within the organization are inventoried.  </h1>
 
 Using the NCSR Tool, I reviewed the first question "Physical devices and systems within the organization are inventoried.":  <br/>
-<img src="https://imgur.com/oGf7uOF.png" height="80%" width="80%" alt="NCSR Tool"/>
+<img src="https://imgur.com/oGf7uOF.png" height="10%" width="10%" alt="NCSR Tool"/>
 <br />
 <br />
  Located the IT Policy and assign a maturity level:  <br/>
-<img src="https://imgur.com/e5daQds.png" height="10%" width="10%" alt=" LSU IT ASSET MANAGEMENT Policy Statement"/>
+<img src="https://imgur.com/e5daQds.png" height="80%" width="80%" alt=" LSU IT ASSET MANAGEMENT Policy Statement"/>
 <br />
 <br />
  Based of the documentation all phyiscal inventory is in placed, they have standards in place and the reveiw of this are gives the maturity level of 6:  <br/>
