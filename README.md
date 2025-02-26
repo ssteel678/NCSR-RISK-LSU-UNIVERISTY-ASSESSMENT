@@ -53,6 +53,9 @@ Based on the network security policy, the organization has policies and standard
 <img src="https://imgur.com/tW87vwk.png" height="10%" width="10%" alt=" Netowrk Security"/>
 <br />
 <br />
+<h1>Assessment question 4: External information systems are catalogued.  </h1>
+<br />
+<br />
 Sanitization complete:  <br/>
 <img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
