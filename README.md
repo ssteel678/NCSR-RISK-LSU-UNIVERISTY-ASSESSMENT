@@ -74,6 +74,8 @@ Looking at the IT Asset Management Statement, we can assume that all asset that 
 <img src="https://imgur.com/exdPUGZ.png" height="10%" width="10%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+
+<h1>Assessment question 6: Cybersecurity roles and responsibilities for the entire workforce and third-party stakeholders (e.g., suppliers, customers, partners) are established. </h1>
 </p>
 
 <!--
