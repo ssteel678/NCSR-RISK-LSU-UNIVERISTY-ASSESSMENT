@@ -71,7 +71,7 @@ Looking at the IT Asset Management Statement, we can assume that all asset that 
 <img src="https://imgur.com/iInS8de.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-<img src="https://imgur.com/iInS8de.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/exdPUGZ.png" height="10%" width="10%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 </p>
