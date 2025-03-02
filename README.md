@@ -117,7 +117,12 @@ This question is kind of non-applicable,due to the fact that is doesn't support 
 <br />
 <br />
 <h1>Assessment question 10: Dependencies and critical functions for delivery of critical services are established.. </h1>
-
+<br />
+<br />
+Based on LSU's DataBase Management, Network Security and System Securitiy policies, they do have standards in place but doesn't define what critical functions are most vital to the organinizations revenue. I risk assessment will need to be completed, so the maturity level will be 4: < br />
+<br />
+<br />
+<img src="https://imgur.com/4XaYh76.png" height="10%" width="10%" alt="Maturity Level"/>
 </p>
 
 <!--
