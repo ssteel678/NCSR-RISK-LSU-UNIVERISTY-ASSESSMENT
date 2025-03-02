@@ -57,7 +57,7 @@ Based on the network security policy, the organization has policies and standard
 <br />
 <br />
 According to the Applications and Cloud Standards, we can assume that all information systems such as cloud providers, application providers or any device used to store data is catalogued, but there is not enough evidence to show if a risk assesment has been performed. The maturity level will be a 4:  <br/>:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/ipqfD9I.png" height="80%" width="80%" alt="External information systems are catalogued"/>
 <br />
 <br />
 Observe the wiped disk:  <br/>
