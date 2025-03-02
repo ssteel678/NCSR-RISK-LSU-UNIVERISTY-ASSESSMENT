@@ -66,9 +66,14 @@ According to the Applications and Cloud Standards, we can assume that all inform
 <h1>Assessment question 5:Resources (e.g., hardware, devices, data, time, and software) are prioritized based on their classification, criticality, and business value..  </h1>
 <br />
 <br />
-Looking at the IT Asset Management Statement, we can assume that all asset that store critical data is protected and has standards in place but does not define which asset are critical:  <br/>
+Looking at the IT Asset Management Statement, we can assume that all asset that store critical data is protected and has standards in place but does not define which asset are critical. Maturity Level will be a 4:  <br/>
 <img src="https://imgur.com/UQN99cA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://imgur.com/iInS8de.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<img src="https://imgur.com/iInS8de.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
 </p>
 
 <!--
