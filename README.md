@@ -79,8 +79,10 @@ Looking at the IT Asset Management Statement, we can assume that all asset that 
 <br />
 However not available to the public, while reviewing the personnel policy, we can assume the the organization has cybersecurity roles and responsible outlined and standards in place. The Maturity level will be a 6:  <br/>
 <img src="https://imgur.com/0gBbMkJ.png" height="80%" width="80%" alt="Personnel"/>
-
-
+<img src="https://imgur.com/dYkQQoS.png" height="80%" width="80%" alt="Personnel"/>
+<br />
+<br />
+<img src="https://imgur.com/q84Y9FH.png" height="10%" width="10%" alt="Personnel"/>
 
 </p>
 
