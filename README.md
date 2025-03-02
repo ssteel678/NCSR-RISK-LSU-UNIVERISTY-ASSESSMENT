@@ -63,6 +63,9 @@ According to the Applications and Cloud Standards, we can assume that all inform
 <img src="https://imgur.com/dp2F6Rk.png" height="10%" width="10%" alt="External information systems are catalogued"/>
 <br />
 <br />
+<h1>Assessment question 5:Resources (e.g., hardware, devices, data, time, and software) are prioritized based on their classification, criticality, and business value..  </h1>
+<br />
+<br />
 Observe the wiped disk:  <br/>
 <img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
