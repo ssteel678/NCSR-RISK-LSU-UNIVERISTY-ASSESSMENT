@@ -67,15 +67,21 @@ According to the Applications and Cloud Standards, we can assume that all inform
 <br />
 <br />
 Looking at the IT Asset Management Statement, we can assume that all asset that store critical data is protected and has standards in place but does not define which asset are critical. Maturity Level will be a 4:  <br/>
-<img src="https://imgur.com/UQN99cA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://imgur.com/iInS8de.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/UQN99cA.png" height="80%" width="80%" alt="Asset Management"/>
+<img src="https://imgur.com/iInS8de.png" height="80%" width="80%" alt="Asset Management"/>
 <br />
 <br />
-<img src="https://imgur.com/exdPUGZ.png" height="10%" width="10%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/exdPUGZ.png" height="10%" width="10%" alt="Asset Management"/>
 <br />
 <br />
-
 <h1>Assessment question 6: Cybersecurity roles and responsibilities for the entire workforce and third-party stakeholders (e.g., suppliers, customers, partners) are established. </h1>
+<br />
+<br />
+However not available to the public, while reviewing the personnel policy, we can assume the the organization has cybersecurity roles and responsible outlined and standards in place. The Maturity level will be a 6:  <br/>
+<img src="https://imgur.com/0gBbMkJ.png" height="80%" width="80%" alt="Personnel"/>
+
+
+
 </p>
 
 <!--
