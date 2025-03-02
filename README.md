@@ -83,7 +83,9 @@ However not available to the public, while reviewing the personnel policy, we ca
 <br />
 <br />
 <img src="https://imgur.com/q84Y9FH.png" height="10%" width="10%" alt="Personnel"/>
-
+<br />
+<br />
+<h1>Assessment question 7: The organization's role in the supply chain is identified and communicated. </h1>
 </p>
 
 <!--
