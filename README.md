@@ -114,6 +114,10 @@ This question is kind of non-applicable,due to the fact that is doesn't support 
 <br />
 <br />
 <img src="https://imgur.com/zRanORN.png" height="10%" width="10%" alt="Maturity Level"/>
+<br />
+<br />
+<h1>Assessment question 10: Dependencies and critical functions for delivery of critical services are established.. </h1>
+
 </p>
 
 <!--
