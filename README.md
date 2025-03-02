@@ -86,6 +86,10 @@ However not available to the public, while reviewing the personnel policy, we ca
 <br />
 <br />
 <h1>Assessment question 7: The organization's role in the supply chain is identified and communicated. </h1>
+
+Based on the information provided to the public that is not enough information to validate that shows which roles in LSU's supply chain are most critical but looking at Imformation Security Program policy we can ensure that a policy is set in place. Maturity level will be 3:
+<br/>
+<img src="https://imgur.com/vxjtpj0.png" height="10%" width="10%" alt="Personnel"/>
 </p>
 
 <!--
