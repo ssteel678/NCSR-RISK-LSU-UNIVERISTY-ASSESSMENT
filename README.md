@@ -98,7 +98,11 @@ Based on the information provided to the public that is not enough information t
 <br />
 This question is kind of non-applicable,due to the fact that is doesn't support manger infrustructure and level will be 2 since it follows education :
 <img src="https://imgur.com/RhgTUGp.png" height="10%" width="10%" alt="Personnel"/>
-
+<br />
+<br />
+<h1>Assessment question 9: Priorities for organizational mission, objectives, and activities are established and communicated.. </h1>
+<br />
+<br />
 </p>
 
 <!--
