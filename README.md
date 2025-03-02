@@ -123,6 +123,11 @@ Based on LSU's DataBase Management, Network Security and System Securitiy polici
 <br />
 <br />
 <img src="https://imgur.com/4XaYh76.png" height="10%" width="10%" alt="Maturity Level"/>
+<br />
+<br />
+<h1>Below is the Final Outcome of the NCSR Asseessment, Risk Assessment and Report.. </h1>
+<br />
+<br />
 </p>
 
 <!--
