@@ -103,8 +103,17 @@ This question is kind of non-applicable,due to the fact that is doesn't support 
 <h1>Assessment question 9: Priorities for organizational mission, objectives, and activities are established and communicated.. </h1>
 <br />
 <br />
- The priorites of the organization define for cybersecirity roles ,responsibilities and risk mangement decisions :
- 
+ The priorites of the organization defines to cybersecurity roles ,responsibilities and risk mangement decisions in the information security policy. There is no record that a risk assesment was implement so the maturity level will be 4 :
+<img src="[https://imgur.com/ldkJtuG.png" height="80%" width="80%" alt="Information Security Program policy"/>
+<br />
+<br />
+<img src="https://imgur.com/HclCIFd.png" height="80%" width="80%" alt="Information Security Program policy"/>
+<br />
+<br />
+<img src="https://imgur.com/zT1TpKI.png" height="80%" width="80%" alt="Information Security Program policy"/>
+<br />
+<br />
+<img src="https://imgur.com/zRanORN.png" height="10%" width="10%" alt="Maturity Level"/>
 </p>
 
 <!--
