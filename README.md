@@ -103,6 +103,8 @@ This question is kind of non-applicable,due to the fact that is doesn't support 
 <h1>Assessment question 9: Priorities for organizational mission, objectives, and activities are established and communicated.. </h1>
 <br />
 <br />
+ The priorites of the organization define for cybersecirity roles ,responsibilities and risk mangement decisions :
+ 
 </p>
 
 <!--
