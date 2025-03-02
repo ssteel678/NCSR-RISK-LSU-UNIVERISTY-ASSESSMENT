@@ -89,7 +89,11 @@ However not available to the public, while reviewing the personnel policy, we ca
 
 Based on the information provided to the public that is not enough information to validate that shows which roles in LSU's supply chain are most critical but looking at Imformation Security Program policy we can ensure that a policy is set in place. Maturity level will be 3:
 <br/>
+<br />
 <img src="https://imgur.com/vxjtpj0.png" height="10%" width="10%" alt="Personnel"/>
+<br />
+<br />
+<h1>Assessment question 8: The organization's place in critical infrastructure and its industry sector is identified and communicated.. </h1>
 </p>
 
 <!--
